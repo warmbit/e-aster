@@ -1,8 +1,10 @@
 # e-aster
 E-Aster is a beautiful 48mm circular disc with 61 WS2812B-2020 RGB LEDs
 
-Check its page on [Hackaday](https://hackaday.io/project/179746-e-aster)
-Buy it from [my Tindie store](https://tindie.com/stores/warmbit)
+* Check its page on [Hackaday](https://hackaday.io/project/179746-e-aster)
+* Buy it from [my Tindie store](https://tindie.com/stores/warmbit)
+
+More code is on its way.
 
 ## How the LEDs are numbered?
 
