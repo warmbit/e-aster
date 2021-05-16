@@ -13,3 +13,13 @@ You may need this information when programming your Arduino board.
 ![e-aster LED numbering](https://github.com/warmbit/e-aster/blob/main/e-aster_led_number.png)
 
 Always be cautious about the peak current. How much is supported by your Arduino board? 
+
+## Connect E-Aster to Arduino
+
+There are just three wires to solder. 
+
+* One power (red) to the VUSB or 5V power supply.  
+* One ground (black) to the GND.
+* One data (yellow or green) to anything pin, either analog or digital should be fine.
+ 
+To run the Arduino IDE, remember to add your board first.
